@@ -6,6 +6,7 @@
 // console.log(numbers)
 
 //test
+//test
 
 
 // PUZZLE 2: Write the code that will log the length of the array veggies to the console. 
